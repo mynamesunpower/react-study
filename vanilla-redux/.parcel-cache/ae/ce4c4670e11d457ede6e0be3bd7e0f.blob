@@ -1,0 +1,2 @@
+const divToggle = document.querySelector('.toggle');
+const counter = document.querySelector('h1')

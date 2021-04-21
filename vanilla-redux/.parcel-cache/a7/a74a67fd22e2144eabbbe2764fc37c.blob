@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>untitled</title>
+    <link rel="stylesheet" type="text/css" href="e4bf09b61ab884c61a649b52903c2aa8">
+</head>
+<body>
+<div class="toggle"></div>
+<hr>
+<h1>0</h1>
+<button id="increase">+1</button>
+<button id="decrease">-1</button>
+
+<script src="4446f5e227c2c938d062e7ce10c1adbe"></script>
+</body>
+</html>

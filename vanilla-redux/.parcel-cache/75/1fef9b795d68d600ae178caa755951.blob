@@ -1,0 +1,12 @@
+.toggle {
+    border: 2px solid black;
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+    box-sizing: border-box;
+}
+
+.toggle.active {
+    background: yellow;
+}
+/*# sourceMappingURL=index.HASH_REF_1484d9a21a30cf8951b41e0f0f132b6c.css.map */
